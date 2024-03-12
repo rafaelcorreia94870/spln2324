@@ -1,4 +1,4 @@
-# Script para contar o número de ocorrência de palavras
+# Script para retribuir tweets por ID
 
 ## Autor
 Rafael Picão Ferreira Correia

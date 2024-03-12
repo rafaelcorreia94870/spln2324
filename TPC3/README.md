@@ -1,4 +1,4 @@
-# Script para contar o número de ocorrência de palavras
+# Script para criar um template jinja2 para um pyproject.toml
 
 ## Autor
 Rafael Picão Ferreira Correia
